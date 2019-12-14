@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+  _____           _                       _                       
+ |_   _|         | |                     (_)                      
+   | |  _ __  ___| |_ _ __ _   _  ___ ___ _  ___  _ __   ___  ___ 
+   | | | '_ \/ __| __| '__| | | |/ __/ __| |/ _ \| '_ \ / _ \/ __|
+  _| |_| | | \__ \ |_| |  | |_| | (_| (__| | (_) | | | |  __/\__ \
+ |_____|_| |_|___/\__|_|   \__,_|\___\___|_|\___/|_| |_|\___||___/
+                                                                  
+                                                                  
+ REGLAS DEL JUEGO:
+
+    El conecta 4 consiste en lo siguiente: Una rejilla vertical de 6 filas y 7 columnas. Las filas van 
+     a estar numeradas de abajo a arriba del 1 al 6, 
+     y las columnas de izquierda a derecha de A a G. El objetivo es alinear 4 fichas de su 
+     color, horizontalmente, verticalmente o en diagonal.
+
+    DESARROLLO DEL JUEGO:
+
+    ~El juego es previsto solamente para 2 jugadores.
+
+    ~Cada jugador va a elegir el color de ficha que sea de su preferencia.
+
+    ~Cada jugador en su turno juega una ficha de su color en la columna de su preferencia.
+
+    ~El primer jugador que consigue alinear 4 fichas de su color, horizontalmente, verticalmente o 
+      en diagonal, gana la partida. 
+
+     Su fin es por lo tanto construir este alineamiento, impidiendo hacerlo a sus adversarios.
+
+    ~Si la rejilla se llena completamente sin que ninguno de los jugadores logre alinear 4 fichas de 
+      su color, la partida es declarada nula.
+
+
+    RESUMEN DE COMANDOS DEL TECLADO:
+
+    Las teclas que se van a utilizar van a ser las siguientes:
+
+	 ~Flecha izquierda y derecha para elegir la columna (donde se va a depositar la ficha).
+
+	 ~Flecha en dirección hacia abajo para tirar la ficha.
+                                                              

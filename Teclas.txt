@@ -1,0 +1,2 @@
+<==  Izquierda	     ¦  Bajar ficha	==>  Derecha
+ESC menu	     V

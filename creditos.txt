@@ -1,0 +1,34 @@
+
+
+
+
+
+
+
+   ______      __      ___ __              
+  / ____/_____/_/ ____/ (_) /_____  ______ 
+ / /   / ___/ _ \/ __  / / __/ __ \/ ___(_)
+/ /___/ /  /  __/ /_/ / / /_/ /_/ (__  )   
+\____/_/   \___/\__,_/_/\__/\____/____(_)  
+				
+
+
+
+    EQUIPO DESARROLLADOR:
+    	NULL
+    El cual esta conformado por:
+
+    ~Diana Ballesteros
+
+    ~Miguel Degollado
+
+    ~Aleyda Garzon
+
+    ~Eden Navarrete
+
+    El videojuego fue creado como un proyecto final de la materia de "Programacion de 
+     Computadoras", en la carrera de Ciencias de la Computacion de la Universidad de Sonora.
+
+    Gracias especiales a: 
+
+    	Irene Rodriguez Castillo. 

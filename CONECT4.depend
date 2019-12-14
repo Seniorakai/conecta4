@@ -1,0 +1,629 @@
+# depslib dependency file v1.0
+1559260372 source:c:\users\home\desktop\conect4\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+
+1559256898 c:\users\home\desktop\conect4\menuprincipaljuego.h
+
+1559257515 c:\users\home\desktop\conect4\opcionesmenu.h
+
+1559261374 source:c:\users\home\desktop\conect4\menuprincipaljuego.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559258366 c:\users\home\desktop\conect4\funciones.h
+
+1559258134 c:\users\home\desktop\conect4\funcionesjuego.h
+
+1559257994 source:c:\users\home\desktop\conect4\opcionesmenu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559258366 source:c:\users\home\desktop\conect4\funciones.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559258228 source:c:\users\home\desktop\conect4\funcionesjuego.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559258366 source:c:\users\casa\desktop\conect4\funciones.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559256898 c:\users\casa\desktop\conect4\menuprincipaljuego.h
+
+1559257515 c:\users\casa\desktop\conect4\opcionesmenu.h
+
+1559258366 c:\users\casa\desktop\conect4\funciones.h
+
+1559258134 c:\users\casa\desktop\conect4\funcionesjuego.h
+
+1559258228 source:c:\users\casa\desktop\conect4\funcionesjuego.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559260372 source:c:\users\casa\desktop\conect4\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+
+1559261374 source:c:\users\casa\desktop\conect4\menuprincipaljuego.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559264171 source:c:\users\casa\desktop\conect4\opcionesmenu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559274342 source:c:\users\alejandro\pictures\school\conect4 (ascii fix\conect4\funciones.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559274362 c:\users\alejandro\pictures\school\conect4 (ascii fix\conect4\menuprincipaljuego.h
+
+1559257515 c:\users\alejandro\pictures\school\conect4 (ascii fix\conect4\opcionesmenu.h
+
+1559271899 c:\users\alejandro\pictures\school\conect4 (ascii fix\conect4\funciones.h
+
+1559271113 c:\users\alejandro\pictures\school\conect4 (ascii fix\conect4\funcionesjuego.h
+
+1559275028 source:c:\users\alejandro\pictures\school\conect4 (ascii fix\conect4\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+
+1559275057 source:c:\users\alejandro\pictures\school\conect4 (ascii fix\conect4\menuprincipaljuego.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559273898 source:c:\users\alejandro\pictures\school\conect4 (ascii fix\conect4\opcionesmenu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559274471 source:c:\users\alejandro\pictures\school\conect4 (ascii fix\conect4\funcionesjuego.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559274344 source:g:\alex\conect4\conect4\funciones.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559274364 g:\alex\conect4\conect4\menuprincipaljuego.h
+
+1559257516 g:\alex\conect4\conect4\opcionesmenu.h
+
+1559271900 g:\alex\conect4\conect4\funciones.h
+
+1559271114 g:\alex\conect4\conect4\funcionesjuego.h
+
+1559400766 source:g:\alex\conect4\conect4\funcionesjuego.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559275030 source:g:\alex\conect4\conect4\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+
+1559275058 source:g:\alex\conect4\conect4\menuprincipaljuego.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559273900 source:g:\alex\conect4\conect4\opcionesmenu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559274344 source:h:\alex\conect4\conect4\funciones.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559274364 h:\alex\conect4\conect4\menuprincipaljuego.h
+
+1559257516 h:\alex\conect4\conect4\opcionesmenu.h
+
+1559271900 h:\alex\conect4\conect4\funciones.h
+
+1559271114 h:\alex\conect4\conect4\funcionesjuego.h
+
+1559400766 source:h:\alex\conect4\conect4\funcionesjuego.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559410518 source:h:\alex\conect4\conect4\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+
+1559275058 source:h:\alex\conect4\conect4\menuprincipaljuego.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559400884 source:h:\alex\conect4\conect4\opcionesmenu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559274344 source:e:\alex\school\2019-1\conect4\conect4\funciones.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559274364 e:\alex\school\2019-1\conect4\conect4\menuprincipaljuego.h
+
+1559257516 e:\alex\school\2019-1\conect4\conect4\opcionesmenu.h
+
+1559271900 e:\alex\school\2019-1\conect4\conect4\funciones.h
+
+1559271114 e:\alex\school\2019-1\conect4\conect4\funcionesjuego.h
+
+1559400766 source:e:\alex\school\2019-1\conect4\conect4\funcionesjuego.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559410518 source:e:\alex\school\2019-1\conect4\conect4\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+
+1559275058 source:e:\alex\school\2019-1\conect4\conect4\menuprincipaljuego.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559400884 source:e:\alex\school\2019-1\conect4\conect4\opcionesmenu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1576309201 source:c:\users\rsly\desktop\conect4\funciones.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559277964 c:\users\rsly\desktop\conect4\menuprincipaljuego.h
+
+1559261116 c:\users\rsly\desktop\conect4\opcionesmenu.h
+
+1559275500 c:\users\rsly\desktop\conect4\funciones.h
+
+1559274714 c:\users\rsly\desktop\conect4\funcionesjuego.h
+
+1576309200 source:c:\users\rsly\desktop\conect4\funcionesjuego.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1576261143 source:c:\users\rsly\desktop\conect4\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+
+1576310571 source:c:\users\rsly\desktop\conect4\menuprincipaljuego.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559404484 source:c:\users\rsly\desktop\conect4\opcionesmenu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559277944 source:c:\users\alumno\escritorio\conect4\funciones.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559277964 c:\users\alumno\escritorio\conect4\menuprincipaljuego.h
+
+1559261116 c:\users\alumno\escritorio\conect4\opcionesmenu.h
+
+1559275500 c:\users\alumno\escritorio\conect4\funciones.h
+
+1559274714 c:\users\alumno\escritorio\conect4\funcionesjuego.h
+
+1559404366 source:c:\users\alumno\escritorio\conect4\funcionesjuego.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559414118 source:c:\users\alumno\escritorio\conect4\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+
+1559278658 source:c:\users\alumno\escritorio\conect4\menuprincipaljuego.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559404484 source:c:\users\alumno\escritorio\conect4\opcionesmenu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559277944 source:c:\users\alumno\escritorio\borra\conect4\funciones.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559277964 c:\users\alumno\escritorio\borra\conect4\menuprincipaljuego.h
+
+1559261116 c:\users\alumno\escritorio\borra\conect4\opcionesmenu.h
+
+1559275500 c:\users\alumno\escritorio\borra\conect4\funciones.h
+
+1559274714 c:\users\alumno\escritorio\borra\conect4\funcionesjuego.h
+
+1559404366 source:c:\users\alumno\escritorio\borra\conect4\funcionesjuego.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559414118 source:c:\users\alumno\escritorio\borra\conect4\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+
+1559278658 source:c:\users\alumno\escritorio\borra\conect4\menuprincipaljuego.cpp
+	<iostream>
+	<limits>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
+1559404484 source:c:\users\alumno\escritorio\borra\conect4\opcionesmenu.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<limits>
+	"MenuPrincipalJuego.h"
+	"OpcionesMenu.h"
+	"funciones.h"
+	"funcionesJuego.h"
+
